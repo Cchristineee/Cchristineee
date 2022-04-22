@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Cchristineee
-- 👀 I’m interested in ... Software development 
-- 🌱 I’m currently learning ... Java
+- 👋🏾 Hi, my name is Christine Grimadeau 
+- 👀 I’m interested in ... Software development, art, and gaming  
+- 🌱 I’m currently learning ... Java, Python 
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 📫 How to reach me ... https://www.linkedin.com/in/christine-grimadeau/
 
 <!---
 Cchristineee/Cchristineee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
