@@ -1,7 +1,7 @@
 -   Hi there, my name is Christine! 👋🏾 
 -   Computer Science major at SUNY College of Old Westbury
 -   👁 am interested in ... Software development, art, and gaming 👩🏾‍💻 🎨 🎮 
--   I’m currently learning ... Java, Python, Swift, etc
+-   I’m currently learning ... Java, Python, and C++
 -   I’m looking to collaborate with ... developers and to learn from others
 -   ask me about ..... anything really
 -   📫 How to reach me ... https://www.linkedin.com/in/christine-grimadeau/
