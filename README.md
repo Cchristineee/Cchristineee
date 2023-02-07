@@ -1,13 +1,13 @@
 <h1 align="center">Hi there! 👋🏾 My name is Christine Grimadeau!</h1>
 <h3 align="center">Junior at SUNY College of Old Westbury majoring in Comp Sci 👩🏾‍💻</h3>
 
-- 🌱 I’m currently learning **C++, JavaScript and Unity**
+- 🌱 I’m currently learning **C++ and Unity**
 
 - 💬 I'm also on Linkedin! [https://www.linkedin.com/in/christine-grimadeau/](https://www.linkedin.com/in/christine-grimadeau/)
 
 - 👁 am intrested in **Software and mobile development, gaming**
 
-- 📫 The best way to reach me is through my campus email **cgrimad1@oldwestbury.edu**
+- 📫 The best way to reach me is through my email **cgrimad1@yahoo.edu**
 
 - ⚡ Fun fact **I collect Pokémon cards! ϞϞ(๑⚈ ․̫ ⚈๑)∩**
 
