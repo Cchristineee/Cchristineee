@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋🏾 My name is Christine Grimadeau!</h1>
 <h3 align="center">Junior at SUNY College of Old Westbury majoring in Comp Sci 👩🏾‍💻</h3>
 
-- 🌱 I’m currently learning **C#,Unity, HTML/CSS, and Javascript**
+- 🌱 I’m currently learning **C# and Unity**
 
 - 💬 I'm also on Linkedin! [https://www.linkedin.com/in/christine-grimadeau/](https://www.linkedin.com/in/christine-grimadeau/)
 
