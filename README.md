@@ -7,7 +7,7 @@
 
 - 👁 am intrested in **Software development, mobile development, and gaming**
 
-- 📫 The best way to reach me is through my email **cgrimad1@yahoo.edu**
+- 📫 The best way to reach me is through my email **cgrimad1@yahoo.com**
 
 - ⚡ Fun fact **I collect Pokémon cards! ϞϞ(๑⚈ ․̫ ⚈๑)∩**
 
