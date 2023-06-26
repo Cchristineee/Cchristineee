@@ -5,7 +5,7 @@
 
 - 💬 I'm also on Linkedin! [https://www.linkedin.com/in/christine-grimadeau/](https://www.linkedin.com/in/christine-grimadeau/)
 
-- 👁 am intrested in **Software and mobile development, gaming**
+- 👁 am intrested in **Software development, mobile development, and gaming**
 
 - 📫 The best way to reach me is through my email **cgrimad1@yahoo.edu**
 
