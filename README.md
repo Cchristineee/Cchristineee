@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋🏾 My name is Christine Grimadeau!</h1>
 <h3 align="center">Senior at SUNY College of Old Westbury majoring in Comp Sci/MIS 👩🏾‍💻</h3>
 
-- 🌱 I’m currently learning **Kotlin, SQL, and C++**
+- 🌱 I’m currently learning **Kotlin, SQL, and C#**
 
 - 💬 I'm also on Linkedin! [https://www.linkedin.com/in/christine-grimadeau/](https://www.linkedin.com/in/christine-grimadeau/)
 
