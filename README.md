@@ -5,7 +5,7 @@
 
 - 💬 I'm also on Linkedin! [https://www.linkedin.com/in/christine-grimadeau/](https://www.linkedin.com/in/christine-grimadeau/)
 
-- 👁 am intrested in **Data analytics, cybersecurity, reading and gaming**
+- 👁 am intrested in **Data analytics, Web Development, reading and gaming**
 
 - 📫 The best way to reach me is through my email **cgrimad1@yahoo.com**
 
