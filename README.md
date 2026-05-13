@@ -1,11 +1,9 @@
 <h1 align="center">Hi there! 👋🏾 My name is Christine Grimadeau!</h1>
-<h3 align="center">Senior at SUNY College of Old Westbury majoring in Management Information Systems (MIS) 👩🏾‍💻</h3>
+<h3 align="center">Recent grad with a B.S. in Management Information Systems (SUNY at Old Westbury) — Passionate about Data and Web Development 👩🏾‍💻</h3>
 
-- 🌱 I’m currently learning **SQL, Python, and JavaScript#**
+- 🌱 I’m currently learning **React Native, Python, and JavaScript**
 
-- 💬 I'm also on Linkedin! [https://www.linkedin.com/in/christine-grimadeau/](https://www.linkedin.com/in/christine-grimadeau/)
-
-- 👁 am intrested in **Data analytics, Web Development, reading and gaming**
+- 👁 am intrested in ** Gaming, Reading and Listening to Music **
 
 - 📫 The best way to reach me is through my email **cgrimad1@yahoo.com**
 
