@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native, Python, and JavaScript**
 
-- 👁 am intrested in ** Gaming, Reading and Listening to Music **
+- 👁 am intrested in **Gaming, Reading and Listening to Music**
 
 - 📫 The best way to reach me is through my email **cgrimad1@yahoo.com**
 
