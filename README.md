@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋🏾 My name is Christine Grimadeau!</h1>
 <h3 align="center">Recent grad with a B.S. in Management Information Systems (SUNY at Old Westbury) — Passionate about Data and Web Development 👩🏾‍💻</h3>
 
-- 🌱 I’m currently learning **React Native, Python, and JavaScript**
+- 🌱 I’m currently learning **TypeScript, React Native, and Python**
 
 - 👁 am intrested in **Gaming, Reading and Listening to Music**
 
